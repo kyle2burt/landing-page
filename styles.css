@@ -60,3 +60,29 @@ a {
     text-decoration: none;
     color: #F9FAF8;
 }
+
+.information {
+    text-align: center;
+    padding: 20px 0 80px;
+}
+h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+.info-box {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    padding-top: 20px;
+}
+.info-part {
+    width: 150px;
+}
+.info-part img {
+    border: 3px solid #3882F6;
+    border-radius: 18px;
+}
+.info-part p {
+    color: #5a5b5d;
+}
