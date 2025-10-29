@@ -107,3 +107,23 @@ h2 {
     font-size: 18px;
     margin: 10px 400px;
 }
+.action {
+    padding: 100px 250px;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    color: #F9FAF8;
+    background-color: #3882F6;
+    border-radius: 8px;
+    padding: 50px 100px;
+}
+h4 {
+    margin: 0;
+}
+p {
+    margin: 3px 0;
+}
+.action-button {
+    border: #E5E7EB solid 2px;
+}
